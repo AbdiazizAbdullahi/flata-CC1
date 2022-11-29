@@ -20,7 +20,7 @@ let tax = taxRate();
 // Function to evaluate NHIF fee
 function healthService(){
     if(salary < 100000){
-        return salary * (25 / 1000);
+        return salary * (1 / 1000);
     }else{
         return 1700;
     } 

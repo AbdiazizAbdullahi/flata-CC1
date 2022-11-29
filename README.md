@@ -15,6 +15,21 @@ The Challenges are;
 2.Speed Detector.
 3.Net Salary Calculator. 
 
+## Installations
+
+Install promp-sync function to run this program on your VS Code.
+1.Open the terminal.
+2.Enter "npm install prompt-sync"
+The dependecies will be installed
+
+## Running the program
+
+-Use the VS Code terminal to run the program.
+-Run the following command;
+    node filename.js
+-Input value when prompted
+-It will evaluate the input and output the result.
+
 
 ## Challenge 1: Student Grade Generator
 
